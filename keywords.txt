@@ -1,0 +1,27 @@
+#######################################
+# Syntax Coloring Map For Vishay_VEML6046
+####################################### 
+# Class
+#######################################
+
+Vishay_VEML6046	KEYWORD1
+VEML6046	KEYWORD1
+veml6046	KEYWORD1
+
+#######################################
+# Methods and Functions 
+#######################################	
+
+begin	KEYWORD2
+end	KEYWORD2
+
+read_ALS	KEYWORD2
+get_lux	KEYWORD2
+INT_EN	KEYWORD2
+enableINT_with_threshold	KEYWORD2
+cleanINT	KEYWORD2
+
+#######################################
+# Constants
+#######################################
+lens_factor	LITERAL1
