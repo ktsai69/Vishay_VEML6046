@@ -532,9 +532,9 @@ uint16_t r, g, b;
 if (veml6046.read_RGB(&r, &g, &b))
 {
     Serial.print(r);
-	Serial.print('\t');
+    Serial.print('\t');
     Serial.print(g);
-	Serial.print('\t');
+    Serial.print('\t');
     Serial.print(b);
 }
 Serial.println();
